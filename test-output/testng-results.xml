@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-24T19:41:39Z" name="Suite" finished-at="2020-02-24T19:41:54Z" duration-ms="15155">
+    <groups>
+    </groups>
+    <test started-at="2020-02-24T19:41:39Z" name="Test" finished-at="2020-02-24T19:41:54Z" duration-ms="15155">
+      <class name="com.amazon.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@5d0a1059]" started-at="2020-02-24T14:41:39Z" name="setup" finished-at="2020-02-24T14:41:44Z" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToAmazonTest()[pri:1, instance:com.amazon.qa.testcases.LoginPageTest@5d0a1059]" started-at="2020-02-24T14:41:44Z" name="loginToAmazonTest" finished-at="2020-02-24T14:41:48Z" duration-ms="3625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAmazonTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@5d0a1059]" started-at="2020-02-24T14:41:48Z" name="teardown" finished-at="2020-02-24T14:41:49Z" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@5d0a1059]" started-at="2020-02-24T14:41:49Z" name="setup" finished-at="2020-02-24T14:41:54Z" duration-ms="4742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:2, instance:com.amazon.qa.testcases.LoginPageTest@5d0a1059]" started-at="2020-02-24T14:41:54Z" name="loginPageTitleTest" finished-at="2020-02-24T14:41:54Z" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@5d0a1059]" started-at="2020-02-24T14:41:54Z" name="teardown" finished-at="2020-02-24T14:41:54Z" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.amazon.qa.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
